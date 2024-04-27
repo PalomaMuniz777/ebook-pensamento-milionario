@@ -43,13 +43,6 @@ Este E-book oferece uma exploração profunda do Princípio do Espelho e suas ap
 Instituição de Orientação Alfa (IOA)
 
 
-
-
-User
-Crie exemplos de Prompets para geração desse E-Book?
-ChatGPT
-Claro, aqui estão alguns exemplos de prompts que você pode usar para gerar conteúdo para o E-book sobre o Princípio do Espelho:
-
 Prompt para o Capítulo 1: O Princípio do Espelho:
 Explique a relação entre a realidade interna de uma pessoa e o Princípio do Espelho.
 Discuta como a mudança interna pode levar a transformações externas de vida.
